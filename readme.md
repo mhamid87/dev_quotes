@@ -12,6 +12,8 @@ All quotes are sourced from https://en.wikiquote.org
 
 # Devlopers
 
-linus
-martin
-larry
+- linus
+- martin
+- larry
+- alan kay
+- jabcob proutrup
